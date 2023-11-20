@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+}
+
+.main-recipes {
+  margin: 50px;
+  padding: 15px;
+}
+
+.recipe {
+  display: block;
+  background-color: coral;
+  padding: 50px;
+  border: dotted;
+  text-align: center;
+  margin: 10px 200px 20px 200px;
+}
